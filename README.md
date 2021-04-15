@@ -1,10 +1,4 @@
 # hola-git
-Primer git RRR
-ooooooo
+Primer git 
 
-ooooo
-
-o
-
-fjdaklfjal fjalf al
-
+Aprendiendo Git
